@@ -46,14 +46,14 @@ form input, form button{
     font-size: 1.8rem;
     border: 1px solid wheat;
     background: transparent;
-    max-width: 80%;
+    max-width: 60%;
     min-height: 5rem;
     color: white;
 
 }
 form input{
     border-radius:  0 7px 7px 0;
-    min-width: 70%;
+    min-width: 40%;
 }
 form button{
     color: gray;
@@ -203,7 +203,9 @@ footer a:hover{
         font-size: .8rem;
     }
     form input{
-        border-radius:  0 7px 7px 0;
-        min-width: 20%;
+        max-width: 30%;
+    }
+    select{
+        min-width: 10%;
     }
   }
