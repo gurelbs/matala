@@ -213,6 +213,6 @@ footer a:hover{
     .todo{
         margin: .5rem .8rem;
         font-size: 1rem;
-        max-width: 80%;
+        width: 100%;
     }
 }
